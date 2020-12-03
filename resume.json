@@ -1,0 +1,217 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Rousseau Julien",
+    "label": "Lead Developer",
+    "image": "",
+    "email": "julien.rss@gmail.com",
+    "phone": "0622820651",
+    "url": "https://www.linkedin.com/in/julien-rousseau-979b8282/",
+    "summary": "I specialise in Javascript/Typescript development using modern framework frontend or backend, although I am also comfortable with the whole devops stack Docker, Google Cloud Platform... I'm a versatile developer and I love to understand things from the bare metal up to the end user. Finally, I have experience working remotely and I can help a team integrate remote workers. I'm able to adapt to various team sizes and various business contexts. As a lead developer, I can help a team make pragmatic decisions about which library or framework to use for a specific task and how to design a technical solution to a business problem. I'm a very positive person, always seeking the best out of someone else (even though I enjoy a bit of troll about tech stacks from time to time).",
+    "location": {
+      "address": "173 Promenade de la plage",
+      "postalCode": "13920",
+      "city": "Saint Mitre les remparts",
+      "countryCode": "FR",
+      "region": "Bouches du Rhône"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "roxus",
+        "url": "https://github.com/roxus"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Intescia - Doubletrade (remote)",
+      "location": "Paris",
+      "description": "",
+      "position": "Lead Developer",
+      "url": "https://doubletrade.com/",
+      "startDate": "2015-08-01",
+      "summary": "",
+      "highlights": [
+        "Typescript",
+        "NodeJS",
+        "Reactjs",
+        "LitElement",
+        "Redux",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Wyplay",
+      "location": "Marseille",
+      "description": "",
+      "position": "Lead Developer",
+      "url": "https://www.wyplay.com/",
+      "startDate": "2012-06-01",
+      "endDate": "2015-08-01",
+      "summary": "",
+      "highlights": [
+        "NodeJS",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "RabbitMQ",
+        "AngularJS",
+        "AWS",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Hors-norme",
+      "location": "Marseille",
+      "description": "",
+      "position": "Developer",
+      "startDate": "2011-08-01",
+      "endDate": "2012-06-01",
+      "summary": "",
+      "highlights": [
+        "Symfony2",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Pieceonline",
+      "location": "Marseille",
+      "description": "",
+      "position": "Developer",
+      "startDate": "2010-08-01",
+      "endDate": "2011-08-01",
+      "summary": "",
+      "highlights": [
+        "Symfony",
+        "MySQL"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "My Mother Agency",
+      "description": "My Mother agency is a global avant-gardist modelling and talent platform open to all aspiring or established models, comedians and extras. Use LitElement, Firebase, Google Cloud Platform...",
+      "keywords": [
+        "LitElement",
+        "NodeJS",
+        "Firebase",
+        "Google Cloud Platform",
+        "StripeJS"
+      ],
+      "startDate": "2018-06-01",
+      "url": "https://app.mymotheragency.com",
+      "roles": [
+        "Team lead"
+      ],
+      "type": "application"
+    },
+    {
+      "name": "lit-datatable",
+      "description": "lit-datatable is a material design implementation of a data table.",
+      "keywords": [
+        "LitElement",
+        "Typescript"
+      ],
+      "startDate": "2016-06-01",
+      "url": "https://github.com/DoubleTrade/lit-datatable",
+      "roles": [
+        "Maintener"
+      ],
+      "type": "component"
+    },
+    {
+      "name": "range-datepicker",
+      "description": "range-datepicker provides a simple datepicker with range.",
+      "keywords": [
+        "LitElement"
+      ],
+      "startDate": "2016-06-01",
+      "url": "https://github.com/roxus/range-datepicker",
+      "roles": [
+        "Maintener"
+      ],
+      "type": "component"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Polytech Marseille",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2006",
+      "endDate": "2009"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "Typescript",
+        "ReactJS",
+        "LitElement"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Typescript",
+        "NodeJS",
+        "RabbitMQ",
+        "PostgreSQL",
+        "MongoDB",
+        "Firebase",
+        "MariaDB"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": [
+        "Google Cloud Platform",
+        "NodeJS"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming / New technology",
+      "keywords": [
+        "vim",
+        "open source",
+        "web-components"
+      ]
+    },
+    {
+      "name": "Sports",
+      "keywords": [
+        "Mountain bike",
+        "Squash competition"
+      ]
+    },
+    {
+      "name": "Video Games",
+      "keywords": [
+        "Apex"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
